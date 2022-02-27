@@ -1,0 +1,492 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The magistrates authority, in matters of religion; and the souls immortality, vindicated in two sermons preach'd at York. / By Christopher Cartvvright, B.D. and Minister of Gods Word there.</title>
+            <author>Cartwright, Christopher, 1602-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80811</idno>
+            <idno type="STC">Wing C692</idno>
+            <idno type="STC">Thomason E401_32</idno>
+            <idno type="STC">ESTC R201801</idno>
+            <idno type="EEBO-CITATION">99862295</idno>
+            <idno type="PROQUEST">99862295</idno>
+            <idno type="VID">114449</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80811)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114449)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The magistrates authority, in matters of religion; and the souls immortality, vindicated in two sermons preach'd at York. / By Christopher Cartvvright, B.D. and Minister of Gods Word there.</title>
+                  <author>Cartwright, Christopher, 1602-1658.</author>
+                  <author>Leigh, Edward, 1602-1671.</author>
+               </titleStmt>
+               <extent>[10], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Underhill, and are to be sold at his shop at the sign of the Bible in great Woodstreet.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"An advertisement to the reader" and "To the Christian reader" are signed by Edward Leigh [Thomason Catalogue erroneously has "Edmund" Leigh].</note>
+                  <note>Annotation on Thomason copy: "Aug 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Romans XIII, 4 --  Sermons.</term>
+               <term>Bible. --  O.T. --  Ecclesiastes XII, 7 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Church and state --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114449:1" rendition="simple:additions"/>
+            <p>THE Magiſtrates Authority, IN <hi>Matters of Religion;</hi> And the Souls Immortality, Vindicated in two SERMONS Preach'd at YORK.</p>
+            <p>By CHRISTOPHER CARTVVRIGHT, B.D. and Miniſter of Gods Word there.</p>
+            <q>
+               <p>
+                  <bibl>ISAIAH 49.23.</bibl> 
+                  <hi>And Kings ſhal be thy nurſing fathers, and Queens thy nurſing mothers.</hi>
+               </p>
+               <bibl>Aug. Contra Creſcon. l. 3. c. 51.</bibl>
+               <p>In hoc Reges, ſicut eis divinitus praecipitur, Deo ſerviunt, in quantum reges ſunt, ſi in ſuo regno bona jubeant, mala prohibeant, non ſolum quae pertinent ad humanam ſocietatem, verum etiam quae ad divinam religionem.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for THO. UNDERHILL, and are to be ſold at his ſhop at the ſign of the Bible in great <hi>Woodſtreet.</hi> 1647.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:114449:2"/>
+            <head>ERRATA.</head>
+            <p>Pag. line 14. unto him. P. 8. l. ult. <hi>left out</hi> all Magiſtrates, even Heathens and Infidels have this power, though all have not faculty or ability to uſe it as they ought. P. 20. l. 28. <hi>is.</hi> P. 21. there is an <hi>Hebrew Koph</hi> for a <hi>Mem</hi> four times, any one that can frame the Heb. Characters wil eaſily mend it. P. 28. l. 11. make <hi>love</hi> have. P. 32. l. 5. execute.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114449:2"/>
+            <head>An Advertiſement to the Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <q>
+                  <seg rend="decorInit">T</seg>Here have been lately vented (in this licenti<g ref="char:EOLhyphen"/>ous Age) divers ſatyrical Pamphlets, nomi<g ref="char:EOLhyphen"/>nating and reviling ſeveral Members of the Houſe of Commons, in one of which entitled, <hi>Prima pars de comparatis comparandis,</hi> I am thrice mentioned, <hi>p.</hi> 19. <hi>Colonel</hi> Leigh, <hi>a man of a fiery diſpoſition, who is generally made Chairman upon any buſineſs that doth [pro or con] concern theſe men</hi> (meaning the Preſ<g ref="char:EOLhyphen"/>byterians) <hi>ſaid</hi> (as it hath been affirmed by ſuch as heard him) that <hi>it was no matter, if there were not one of them ſuffered to live in the Land, but were all either put to death or baniſhed,</hi> or to the like effect. p. 26.</q> Mr <hi>Leighs fiery ſpeech.</hi> p. 39. Leigh <hi>that fierce, fiery fariſo Solomon</hi> ſaith <hi>Prov.</hi> 26.4, 5. <hi>Anſwer not a fool according to his folly, lest thou alſo be like unto him. Anſwer a fool according to his folly, leſt he be wiſe in his own conceit.</hi> He heard that I ſhould ſpeak ſuch words, whence he concludes (and repeats it three times) that I am of a fiery diſpoſition. But what if thoſe which reported my ſpeech to him miſtook me, and I uttered no ſuch words. I may ſafely ſay that I never ſpake thoſe words, for they are far from my judgment. What my judgment is of ſuch Hereticks who raze the foundation, and ſeduce others, is to be ſeen in Print. But for others who erre not in Fundamentals, and are godly, and peaceable, I wiſh (if ever I come under their power) that I may but find as much mercy from them as I could
+<pb facs="tcp:114449:3"/>
+willingly ſhew to them. I am ſure ſome of thoſe who were complained of at the Committee where I was in the Chair, gave a very good teſtimony of me, &amp; my carriage toward them. And for that which he writes that I was generally made a Chairman upon any buſineſs (<hi>pro</hi> or <hi>con</hi>) that concerned theſe men, that is as true as the other, for I was never Chairman in any other buſineſs but this, except for dividing of the Pariſhes neer <hi>Weſtminster,</hi> (and once only at the Committee of Plundered Mini<g ref="char:EOLhyphen"/>ſters.) And had not been Chairman at this Committee at the firſt (which procured me ſo much envy though cauſleſly) but that I was beleeve the firſt day, that if I would then take the Chair at that time, another would take it afterward. What therefore this reviling Pam<g ref="char:EOLhyphen"/>phleter applies to me and others, that we are not Chri<g ref="char:EOLhyphen"/>ſtians, and have not the mind of Chriſt, he may (upon a ſerious review of his own virulent and unchriſtian car<g ref="char:EOLhyphen"/>riage all along in this Pamphlet) more fitly apply to himſelf. Let him look that he do not ſit in the <hi>Chair</hi> of the ſcornful, and (<hi>Diogenes</hi>-like) tax others of thoſe of<g ref="char:EOLhyphen"/>fences of which himſelf is moſt guilty. I having ſo fit an opportunity could not but write this for my own Vindi<g ref="char:EOLhyphen"/>cation, and hope all true Chriſtians wil exerciſe ſomuch charity to me and others, who are unjuſtly accuſed, as not to beleeve us the ſooner faulty, becauſe others are ſo bold in calumniating.</p>
+            <closer>
+               <signed>Thine, <hi>Edward Leigh.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114449:3"/>
+            <head>To the Chriſtian Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Preſent thee here with two Ser<g ref="char:EOLhyphen"/>mons which <hi>I</hi> wiſh may prove as profitable for thee as they are ſeaſonable for theſe times; One is concer<g ref="char:EOLhyphen"/>ning the power of the Magiſtrate in ſpi<g ref="char:EOLhyphen"/>ritual things and matters of Religion; the other is to prove the immortality of the ſoul. The firſt was occaſioned by the con<g ref="char:EOLhyphen"/>trary tenet of ſome which had relation to the Army, who being in the City of <hi>York</hi> (where this worthy Miniſter Mr <hi>Cart<g ref="char:EOLhyphen"/>wright</hi> reſides) there indeavored to maintain, that the Magiſtrate hath no power to puniſh or reſtrain any that ſhal vent never ſo falſe doctrines &amp; heretical opinions; which ſtirred up the zeal of this Reverend Divine to chooſe that Text, <hi>Rom. 13.4.</hi> of purpoſe, and to handle the
+<pb facs="tcp:114449:4"/>
+point <hi>ex profeſſo,</hi> as thou mayſt perceive by the enſuing Sermon, which he fitted not for the Preſs, but for his Auditory, aim<g ref="char:EOLhyphen"/>ing chiefly at their edification and ſta<g ref="char:EOLhyphen"/>bliſhing in the truth. If theſe Sermons therfore be not ſo elaborate as they would have been if put out by the Author, let that be imputed unto me who preſu<g ref="char:EOLhyphen"/>med, upon that intereſt I have in him, to publiſh without his privity thoſe Ser<g ref="char:EOLhyphen"/>mons. Thou ſhalt find them (like himſelf) ſolid and judicious, and J hope the world ſhal ſhortly by a learned Treatiſe upon <hi>Geneſis,</hi> have ample experience of the abilities of this my worthy Friend, and of his skil in the Oriental tongues and Rabbines. The ſecond Sermon was prea<g ref="char:EOLhyphen"/>ched to confute that moſt peſtilent book, <hi>ipſo titulo execrabilis</hi> (as K. <hi>James</hi> ſaid of <hi>Bertius</hi> his book <hi>de Apoſtaſia ſanctorum) concerning the mortali<g ref="char:EOLhyphen"/>ty of the Soul,</hi> though that writer que<g ref="char:EOLhyphen"/>ſtions
+<pb facs="tcp:114449:4"/>
+the very being of the Soul. <hi>M<hi rend="sup">r</hi>. Coleman</hi> preaching before the Parlia<g ref="char:EOLhyphen"/>ment ſaid, none but they had to do in the government of the Church; M. <hi>Dell</hi> told them, they had nothing at all to do in re<g ref="char:EOLhyphen"/>forming the Church; M. <hi>Arrowſmith</hi> ſaid before them, ſome took the middle way between theſe two extreams; <hi>I</hi> have declared my opinion elſwhere<note n="*" place="margin">In my <hi>Pro<g ref="char:EOLhyphen"/>legomena</hi> to my three-fold Treatiſe of Divinity.</note> concerning the power of the Civil Magistrate in theſe things; <hi>I</hi> ſhal only here add the determi<g ref="char:EOLhyphen"/>nation of two reverend Divines, who can<g ref="char:EOLhyphen"/>not but be Authentick with the oppoſers of this truth. The firſt is <hi>D<hi rend="sup">r</hi> Ames</hi> who propounding this queſtion,<note n="*" place="margin">L. 4. <hi>de con<g ref="char:EOLhyphen"/>ſcientia</hi> c. 4. queſt. 61.</note> 
+               <hi>An Haere<g ref="char:EOLhyphen"/>tici ſint a Magiſtratu civili puniendi,</hi> whether Hereticks be to be puniſht by the civil Magiſtrate; thus anſwers, <hi>1.</hi> That Hereticks are to be ſuppreſsed by all god<g ref="char:EOLhyphen"/>ly men according to that calling &amp; power which they have received from God. <hi>2.</hi> That the place and office of the Magi<g ref="char:EOLhyphen"/>ſtrate
+<pb facs="tcp:114449:5"/>
+requires that he ſuppreſs wicked diſturbers with the ſword or the publick and external power, if need be; quoting thoſe two places <hi>Rom. 13.4. 1 Tim. 2.2.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> If the Hereticks be manifest and publickly noxious, they ought by the Ma<g ref="char:EOLhyphen"/>gistrate publickly to be puniſhed. <hi>4.</hi> Jf they be manifeſtly blaſphemous and obsti<g ref="char:EOLhyphen"/>nate in thoſe blaſphemies, they may alſo be capitally puniſht; for although that Law, <hi>Lev. 24.15, 16.</hi> doth not oblige Chriſtians as it is a law, yet as it is a do<g ref="char:EOLhyphen"/>ctrine proceeding from God it belongs to the direction of Chriſtians in cauſes of the ſame kind. The other is <hi>M<hi rend="sup">r</hi> Cotton</hi>
+               <note n="*" place="margin">The bloody Tenet waſhed <hi>Co.</hi> 58.</note> of <hi>New England,</hi> who ſaith, in all civil Nations, whoſe acts are recorded either in ſacred or prophane Authors, their Ma<g ref="char:EOLhyphen"/>giſtrates have had not only a due care of justice and honesty,<note place="margin">Gen. 47.22. Dan. 3.29 &amp; 6.26 Ezra 7.26. &amp; 6.11.</note> but a reverend care of Religion alſo; Jn <hi>Athens</hi> they had a law againſt irreligion, upon which ſuffred
+<pb facs="tcp:114449:5"/>
+three famous Philoſophers, <hi>Socrates,</hi>
+               <note place="margin">Mr <hi>Cotton</hi> biid. <hi>C.</hi> 33.</note> 
+               <hi>Theodorus</hi> and <hi>Protagoras:</hi> The rea<g ref="char:EOLhyphen"/>ſon of the law <hi>Deu. 13.9, 10.</hi> (which is the life of the law ſaith he) is of eternal force and equity in all ages, <hi>Thou ſhalt ſure<g ref="char:EOLhyphen"/>ly kil him, becauſ he hath ſought to thruſt thee away from the Lord thy God;</hi> This reaſon is of univerſal &amp; perpetual equity to put to death any Apoſtate, ſeducing Idolater or Heretick who ſeeketh to thruſt away the ſouls of Gods people from the Lord their God. For that other opinion of the Souls Immortality, <hi>recitaſſe eſt refutaſſe;</hi> and here J may apply what the Apoſtle ſaith of thoſe which deny the Reſurrection, <hi>1 Cor. 15.</hi> if the Soul be not immortal, then is the Miniſters prea<g ref="char:EOLhyphen"/>ching and our faith alſo vain; but as one ſaith wittily of the Sadduces who denyed the Reſurrection, that at the day of Judg<g ref="char:EOLhyphen"/>ment the Sadduces ſhal riſe in that body in which they denyed the Reſurrection of
+<pb facs="tcp:114449:6"/>
+the body, ſo ſhal theſe live with that ſoul in w<hi rend="sup">ch</hi> they denyed the immortality of the ſoul, &amp; find, if not afore, yet at death that the ſoul lives when the body dyes, and that man then ceaſeth not to be, as the beaſt; but only exchangeth his being, and ſhal be either everlaſtingly happy or mi<g ref="char:EOLhyphen"/>ſerable.</p>
+            <closer>
+               <signed>Thy faithful Wel-wiſher, EDVVARD LEIGH.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Page 6. line 26. for <hi>ſhine</hi> read <hi>ſtirre.</hi> P. 25. l. 10. for <hi>mortal</hi> r. <hi>immortal.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:114449:6"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ROM. 13.4.</hi>
+                  </bibl>
+                  <p>For he is a Miniſter of God to thee for good; but if thou do that which is evill, feare, for he beareth not the ſword in vain; for he is the Miniſter of God, a revenger to exe<g ref="char:EOLhyphen"/>cute wrath upon him that doth evil.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Mongſt many heterodox and unſound opinions, that are ſtarted up in theſe times, there is one concerning the pow<g ref="char:EOLhyphen"/>er of the Magiſtrate, <hi>viz.</hi> that it reacheth only to the 2. Table, civill affairs, not to the firſt Table, matters of religion. So that let any hold and practice in reli<g ref="char:EOLhyphen"/>gion what they wil, let them vent and publiſh doc<g ref="char:EOLhyphen"/>trins never ſo horrid and blaſphemous, yet according to this Tenet, the Magiſtrate may not curb nor reſtrain them, he hath nothing to do to meddle with them. This opinion being moſt falſ and of dangerous conſe<g ref="char:EOLhyphen"/>quence, is newly broached here in this City,<note place="margin">
+                  <hi>York,</hi> Jan. 1646.</note> and o<g ref="char:EOLhyphen"/>penly maintained by ſome, both in diſputation and in the Pulpit. And therefore I have thought meet to diſcuſs the Point at this time, that if any of you be ig<g ref="char:EOLhyphen"/>norant, you may be inſtructed; if wavering, you may
+<pb n="2" facs="tcp:114449:7"/>
+be reſolved if miſ-perſwaded and poſſeſſed with error in this particular, you may be convinced and reclaimed. To this end I ſhall endeavor by Gods help to manifeſt the truth unto you, and to clear it from thoſe miſts that ſome caſt about it, to obſcure it. This premiſed, I come to the words of the Text, <hi>For he is the Minister. &amp;c.</hi>
+            </p>
+            <p>For the coherence of theſe words, to fetch it no fur<g ref="char:EOLhyphen"/>ther then needs muſt, the Apoſtle in the beginning of this Chapter begins to treat of the Magiſtrate, and the dutie which people owe unto the Magiſtrate. <hi>Let every ſoul be ſubject to the higher powers. v.</hi> 1. <hi>Subjest, viz:</hi> either actiuely, if the thing commanded be law<g ref="char:EOLhyphen"/>full, paſſively if it be unlawfull. That this ſubjection is due unto the Magiſtrate, the Apoſtle proves by two arguments. 1. for the ordainer of the Magiſtrate, <hi>viz.</hi> God; It is God that hath ordained him, and therefore people ought to be ſubject unto him, and not to reſiſt him; for to reſiſt the Magiſtrate, being ordained of God, is to reſiſt Gods ordinance, and ſo to provoke Gods indignation. For there is no power, but of God; the powers that be, are ordained of God. <hi>Whoſoever there<g ref="char:EOLhyphen"/>fore reſiſteth, reſiſteth the ordinance of God; and they that reſiſt, receive unto themſelves damnation. v.</hi> 1. &amp; 2. And then, ſecondly, he proves it by an argument drawn from the end for which God hath ordained the Magiſtrate, <hi>viz:</hi> the great good and benefit of people, to containe and keep them in order, to protect and defend them that do well, and to correct and puniſh them that do evil. For rulers are not a terrour to good works, but to evil, Wilt thou then not be afraid of the po<g ref="char:EOLhyphen"/>wer? do that which is good, and thou ſhalt have praiſe of the ſame. For he is the Miniſter of God. &amp;c. v. 3.4. Then from theſe premiſſes he inferrs the con<g ref="char:EOLhyphen"/>cluſion,
+<pb n="3" facs="tcp:114449:7"/>
+therefore you muſt needs be ſubject not only for wrath (for fear of puniſhment) but alſo for con<g ref="char:EOLhyphen"/>ſcience ſake. <hi>i. e.</hi> out of conſcience towards God, who hath ordained the Magiſtrate and hath given him his authority, and that for the preſervation and wel<g ref="char:EOLhyphen"/>fare of thoſe, who are under his authority. Thus I have brought you to the Text, and ſomewhat beyond it; and this may ſuffice to ſhew the coherence of the words. For the explication of them, much needs not to be ſpoken, there being no great difficulty in them.</p>
+            <p>For he [<hi>viz.</hi> the Magiſtrate, called the power, v. 3. Is the miniſter of God,] that is, ordained of God, and ſubſervient unto God, and that in ſuch an eminent manner that God communicates his own name unto I have ſaid ye are Gods, Pſal. 82.6.</p>
+            <p>To thee [whoſoever thou art, that art under his autho<g ref="char:EOLhyphen"/>rity for good] <hi>i. e.</hi> for thy good, that thou mayſt do good, and receive good.</p>
+            <p>But if thou do that which is evil [<hi>viz:</hi> the evil of ſin: For there is an evil of puniſhment, which though it be evil, as evil is taken for painfull, yet as evill is taken for ſinful, ſo it is not evil, but good, if it be inflicted on thoſe that do deſerve it, and by thoſe that have power and authority to inflict it. In this ſenſe God himſelf is ſaid to do evil, yea all evil that is done in this kind, is ſaid to be done by him, who yet can do nothing but what is good, that is, juſt and right. Shall there be evil (any evil, <hi>viz:</hi> of puniſhment) in a city, and the LORD hath not done it? Amos, 2.6. Be afraid [<hi>viz.</hi> of the power, <hi>i.e.</hi> the Magiſtrate] as 'tis expreſſed v. 3. If thou wilt do the evil of ſin, look to ſuffer the evil of puniſhment.</p>
+            <p>For he beareth not the ſword in vain. [1. The Ma<g ref="char:EOLhyphen"/>giſtrate
+<pb n="4" facs="tcp:114449:8"/>
+is not in vain armed with power and authority, but to this end, that he may ſmite and puniſh ſuch as do evil, for he is the miniſter of God, a revenger &amp;c.] Private revenge is forbidden, Rom. 12.19. Avenge not your ſelves. But the Magiſtrate being a publike per<g ref="char:EOLhyphen"/>ſon, and appointed of God to this end, to take ven<g ref="char:EOLhyphen"/>geance on thoſe that do evill, he may and ought to do it. This is not againſt that, Rom. 12.19. Vengeance is mine, I wil repay, ſaith the Lord. No, what the Magiſtrate doth by vertue of his office, to which God hath called, and of his authority, wherewith God hath inveſted him, that is as done by God himſelf.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> The words being thus explicated, the doctrin which I obſerve from them, is this, That Magiſtrates are ordain<g ref="char:EOLhyphen"/>ed of God, for the maintaining and defending of thoſe that do well, and for the reſtraining and puniſhing of thoſe that do evill.</p>
+            <p>This doctrine is clear and evident from the text, and being thus indefinitly propounded, they with whom I have had ſomewhat to do already in conference and diſ<g ref="char:EOLhyphen"/>pute, and with whom (<hi>i.</hi> with their opinion, I ſhall ſtill have to do at this time) they, I ſay, do not deny, but they limit it, and wil have it underſtood only in things civill, not in matters of religion. This therefore is that which I ſhall apply my ſelf unto, to prove that the Ma<g ref="char:EOLhyphen"/>giſtrate hath a juſt and lawful power, as well in things that concern the firſt, as in things that concern the 2. Table; as well in matters of religion, as in civil mat<g ref="char:EOLhyphen"/>ters. But that none may miſtake, let this be known and conſidered, that we do not aſcribe ſuch power to the Magiſtrate, as the Papiſts do to the Pope. We do not hold, that the Magiſtrate may preſcribe forms of religion, as he pleaſeth: this was Ieroboams ſin, 1
+<pb n="5" facs="tcp:114449:8"/>
+King, 12.28. &amp;c. Nor that he may performe thoſe things which belong to the miniſter, as to preach, bap<g ref="char:EOLhyphen"/>tiſe, &amp;c. This was it for which Vriah was Plagued, be<g ref="char:EOLhyphen"/>cauſe he would needs take upon him to execute the Prieſts office, 2 Chro. 26.16, &amp;c. But we hold and main<g ref="char:EOLhyphen"/>tain, that the Magiſtrate hath a power to erect, preſerve and eſtabliſh that religion which God in his word hath commanded, and to cauſe both miniſters and others to performe thoſe things (in reſpect of the outward act) which God doth require of them, and to reſtrain and puniſh them, if they tranſgreſs; not only in things con<g ref="char:EOLhyphen"/>cerning the 2. Table, but alſo in things concerning the firſt Table. [And this is all that is meant by that title of ſupream head, or ſupream governer, which we give unto the King] which makes me to wonder much atſome (whom otherwiſe I reverence &amp; eſteem for their works ſake) who have lately inveighed ſore againſt this Title, alledging the cenſures of Calvin and the centuriſts upon it, whereas it is well known, that the Engliſh Divines long before theſe times, have ſhewed that Calvin and the Centuriſts did miſtake the meaning of the Title, and ſuppoſed it to imply ſuch an exorbitant power, as is attributed to the Pope by the Papiſts; ſo that the true meaning of it is no more, then what they, and all Orthodox Divines do yeeld unto the Magiſtrate. This hath been made ſo clear, that not only<note n="*" place="margin">Ject. D. <hi>No<g ref="char:EOLhyphen"/>wel</hi> againſt <hi>Dorman,</hi> Dr. <hi>Rainolds</hi> Con<g ref="char:EOLhyphen"/>fer.</note> forrain Pro<g ref="char:EOLhyphen"/>teſtants, but even<note n="*" place="margin">
+                  <hi>Rivot</hi> in Decal. <hi>Hart</hi> in the Conf. with D. <hi>Rain.</hi>
+               </note> Papiſts alſo, ſome of them have been Satisfied.]</p>
+            <p>But to return to the point, and the proof of it, a<g ref="char:EOLhyphen"/>gainſt thoſe that would ſo limit the Magiſtrates power, and reſtrain it to civil affaires.</p>
+            <p n="1">1. It is a rule, <hi>Non eſt diſtinguendum, ubi lex non di<g ref="char:EOLhyphen"/>ſtinguit,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>1</label> i. we muſt not diſtinguiſh, where the law
+<pb n="6" facs="tcp:114449:9"/>
+doth not diſtinguiſh. And therefore the Apoſtle not ſo limiting the power of the Magiſtrate, we may not ſo limit it. The Apoſtle in the text, and the verſe be<g ref="char:EOLhyphen"/>fore the text, Speaks of the Magiſtrate as having power from God to puniſh evil doers, and to protect thoſe that do well, he doth not limit this to things that concern the 2 Table, neither is there any ground for this limi<g ref="char:EOLhyphen"/>tation. See alſo 1 Pet. 2.14.</p>
+            <p>
+               <hi>Exception</hi> 1. Yes, ſay ſome, the Apoſtle in the verſes following, v. 6.10. doth limit that which goes before.</p>
+            <p>
+               <hi>Anſw.</hi> Let that be conſidered, For, for this cauſe, &amp;c. verſe 6. There the Apoſtle only ſhews, that there<g ref="char:EOLhyphen"/>fore tribute is payd to Magiſtrates and Rulers, be<g ref="char:EOLhyphen"/>cauſe they muſt apply themſelves to the execution of that office to which God hath called them, <hi>viz.</hi> the rul<g ref="char:EOLhyphen"/>ing and governing of people, the protecting and prefer<g ref="char:EOLhyphen"/>ing of thoſe that do well, and the correcting and puniſh<g ref="char:EOLhyphen"/>ing of thoſe that do evil. And hereupon v. 7. he exhorts people to render unto Magiſtratrs, and not to them on<g ref="char:EOLhyphen"/>ly, but to all, that which is due unto them; Render therefore to all their dues, tribute to whom, &amp;c. And v. 8. proceeding in his exhortation, as it is generall, and concernes the rendering of that which is due unto all, he bids, Owe nothing to any man, but to love one ano<g ref="char:EOLhyphen"/>ther: Intimating that love is ſuch a debt, that can ne<g ref="char:EOLhyphen"/>ver be ſo payd, but ſtil its due. And to ſhine up to a careful performing of this duty of love, which all con<g ref="char:EOLhyphen"/>tinually owe unto al, he ſets forth the excellency of love, Saying, for he that loveth another, hath fulfilled the law. And that love is of ſuch an excellent nature, as that the whole law (viz: of the 2. Table, of which he ſpeaks; for he ſpeaks of that love which men owe one to ano<g ref="char:EOLhyphen"/>ther) is fulfilled in it, this he proves v. 9.10: for this, Thou
+<pb n="7" facs="tcp:114449:9"/>
+ſhalt not commit adultery, thou ſhalt not ſteal &amp;c. Love worketh no ill to his neighbour, whence he inferrs, Therefore love is the fulfilling of the law. Thus the whole Series, and Method of the Apoſtle's diſcourſe be<g ref="char:EOLhyphen"/>ing conſidered, it plainly appears that his mentioning of the duties of the 2. Table, is not to this end, to ſhew that the Magiſtrate hath power only in and about things of that nature, but quite to another purpoſe, viz. to prove that in loving one another is comprehended the ſum and ſubſtance of that whole law, namely of the 2 Table, which concerns the duty of men towards one another.</p>
+            <p>Except, 2. Others therefore fetch the ground of their limitation from another place, viz: that Mat. 22.21. Render unto Caeſar the things that are Caeſars, and to God the things that are Gods.</p>
+            <p>Anſwer: But ſurely that place affoords no ground for it; our Saviour there indeed intimates, that ſome things belong unto God, which do not belong to Caeſar, (of which we make no queſtion; for faith and affiance, re<g ref="char:EOLhyphen"/>ligious worſhip, and obſolute obedience in all things are due unto God, not ſo to Caeſar,) but that it belongs not unto Caeſar to intermeddle in matters of religion, this our Saviour there ſhews not; no, thoſe words, Render unto Caeſar the things that are Caeſars, and to God, the things that are Gods, were alwaies of force: there were always, ſome things (viz. thoſe before ſpecified) belonging unto God, and not unto Caeſar, yet it is moſt vident and undeniable, that in ſome ages Caeſar, <hi>i.</hi> the Prince and Ruler hath had, and exerciſed this power which we now contend for, and that lawfully and lau<g ref="char:EOLhyphen"/>dably. And ſo I paſs to another argument drawn from the juſt practice of good and Godly Magiſtrates.</p>
+            <p n="2">2. Therefore I argue thus; The beſt of the rulers of <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>2</label>
+               <pb n="8" facs="tcp:114449:10"/>
+Gods people of old, have put forth their authority in matters of religion, and are commended for it. I will not ſtand much upon the examples of David and Solo<g ref="char:EOLhyphen"/>mon, not becauſe they were types of Chriſt, as ſome have anſwered concerning David, and the ſame may be ſaid of Solomon alſo, but becauſe they were Prophets as wel as Kings, and what they did in this kind, for the moſt part they did not as Kings, but as Prophets, as appears by 1 Chron 9.22. &amp; 28.19. &amp; 2 Chron. 8.14. To let paſs therefore theſe examples, I wil only urge the exam<g ref="char:EOLhyphen"/>ples of thoſe who were Kings only, and not Prophets, as of Aſa, Jehoſhaphat, Ezekiah and Joſiah: How Aſa put down Idolatry, and cauſed the people to enter into a ſtrict and ſolemn covenant to ſerve the Lord, is re<g ref="char:EOLhyphen"/>corded 2 Chron. 15. Of Jehoſhaphats care concerning religion, how he took away the high places &amp; the groves out of Iudah, and ſent Prieſts and Levites throughout the land, to teach and inſtruct the people, we read 2 Chron. 17. How Ezekiah reſtored religion, opening the doors of the Temple, which Ahaz his Father had ſhut, cauſed the Preiſts and Levites to diſcharg their of<g ref="char:EOLhyphen"/>fices, and the people generally to keep the paſſover, &amp;c. we find 2 Chron. 29. &amp; 30. &amp; 31. And ſo of Ioſiah, how he deſtroyed idolatry, repaired the Temple; and kept a moſt ſolemn Paſſover, 2 Chron. 34. &amp; 35. Thus did al theſe famous Princes, &amp; that not by any peculiar power and authority, but ſuch as is common to all Rulers and Magiſtrates within the compaſs of their Iuriſdiction. which wil further appear by the next argument.</p>
+            <p n="3">
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>3</label> 3. Therefore I argue from the commendable practice of heathen Magiſtrates, who having the people of God ſometimes under their dominion, have made good laws and decrees concerning religion: which ſhews that all
+<pb n="9" facs="tcp:114449:10"/>
+they ought. See to this purpoſe <hi>Ezr.</hi> 6.14. &amp; 22. <hi>Ezr.</hi> 7.21.23.25.26.27. So whereas <hi>Nehemiah</hi> cauſed the chambers belonging to the Preiſts to be cleanſed, and the Sabbath to be obſerved &amp;c. <hi>Neh.</hi> 1.3. He had his commiſſion from <hi>Artaxerxes,</hi> Neh 2. See alſo what a decree <hi>Nebucadnezzar</hi> made, <hi>Dan.</hi> 2.29. and <hi>Darius</hi> Dan. 6.25, 26.</p>
+            <p n="4">4. If this power be not granted to the Magiſtrate,<label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>4</label> great evil and miſchief wil enſue, the Church wil be moſt miſerably peſtered with Sects and Hereſies, and all manner of impiety. This is noted as the occaſion of <hi>Micahs</hi> idolatry, that there was no King (<hi>i.e.</hi> no Ru<g ref="char:EOLhyphen"/>ler, or Magiſtrate) in <hi>Iſrael, but every one did what ſeemed good in his own eyes.</hi> Judg. 17.6. And ſo of the Idolatry of the children of <hi>Dan, Judg.</hi> 18.1. In theſe two places the want of a Magiſtrate (<hi>who is to restrain and ſhame them that do evil,</hi> Judg. 18.7.) Is noted as the occaſion of that diſorder that was in the Church, even as in two other places, <hi>viz. Judg.</hi> 19, 1. &amp; 21.25. It is noted as the occaſion of that diſorder that was in the Civil ſtate.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But ſome may ſay, that in the Apoſtles days, and along time after there was no Magiſtrate to take care of religion, therefore no ſuch neceſſity of a Magiſtrate in that reſpect.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer; that the Apoſtles were indued with an extraordinary power, which ſometimes they did exerciſe upon haynous tranſgreſſors for the admo<g ref="char:EOLhyphen"/>nition and terror of others. Thus <hi>Peter</hi> ſtruck <hi>Anani<g ref="char:EOLhyphen"/>as</hi> and <hi>Sapphira</hi> with ſudden death, Acts 5. <hi>And hereby great fear came upon all the Church, and upon all that heard of it.</hi> v. 11. So <hi>Paul</hi> ſmote <hi>Elimas</hi> with blind<g ref="char:EOLhyphen"/>neſs, <hi>Acts</hi> 13. <hi>Whereby the Deputy</hi> Sergius Paulus <hi>was
+<pb n="10" facs="tcp:114449:11"/>
+aſtoniſhed, and converted.</hi> v. 12. So that the extraordinary power of the Apoſtles might wel then ſupply the want of a Chriſtian Magiſtrate. And for the times after the Apoſtles, until <hi>Conſtantine,</hi> beſides that the Church was continually under perſecution, what a flood of hereſies did break in, appears by the writings of <hi>Irenaeus</hi> and <hi>Tertullian,</hi> who lived in thoſe times.</p>
+            <p n="5">5. It is promiſed, that in the times of the Goſpel, <hi>Kings ſhal be nurſing fathers, and Queens nurſing mothers to the Church.</hi> Iſa. 49.23. But this they can<g ref="char:EOLhyphen"/>not be, except they have power, &amp; put forth their pow<g ref="char:EOLhyphen"/>er in matters of religion, which do eſpecially concern the Church, as wel as in Civil matters.</p>
+            <p>
+               <hi>Except.</hi> 1. Some anſwer, that <hi>Kings</hi> and <hi>Queens</hi> are promiſed to be nurſing fathers, and nurſing mothers to the Church, in that being converted, they ſhal hold forth the grace of Chriſt unto others.</p>
+            <p>
+               <hi>Reply,</hi> But ſo may any of the Saints do, though of the meaneſt rank and pooreſt condition: its true, the examples of Kings and Queens are more conſpicious, and more taken notice of; but to be nurſing fathers and nurſing mothers, imports a power and a care to cheriſh and maintain, to protect and defend, which is much more then to hold forth by example. Therefore the Apoſtle gives this as a reaſon, why we ſhould pray, as for all, ſo more eſpecially for Kings, and thoſe that are in authority, that under them, (<hi>i. e.</hi> under the wings of their protection) <hi>We may lead a quiet and peaceable life in all godlineſs, and honeſty.</hi> 1 Tim. 2.1, 2.</p>
+            <p>
+               <hi>Except.</hi> 2. Some grant that protection and defence is implyed in the titles of nurſing fathers, and nurſing mothers; but this protection and defence, they wil have meant only in outward and civil things, not
+<pb n="11" facs="tcp:114449:11"/>
+in things belonging to Religion.</p>
+            <p>
+               <hi>Reply.</hi> But 1. To be nurſing fathers, and nurſing mothers to the Church, as the Church; muſt needs im<g ref="char:EOLhyphen"/>ply a protection and defence of the Church in matters of Religion; for it is Religion which gives being to the Church, and by Religion it is that the Church doth differ from the Civil State or Common-wealth. 2. Meer heathens and infidels may have, and uſually have this benefit by their Kings and Queens, to be protect<g ref="char:EOLhyphen"/>ed and defended in their civil rights and liberties; but the Prophet ſpeaks of a ſpecial benefit, which the Church ſhal have by Kings and Queens above others. 3. The Apoſtle, 1 Tim. 2.2. requires us to pray for Kings, and thoſe that are in authority, that under them we may lead a quiet and a peaceable life, as wel in all godlineſs (which concerns Religion) as ho<g ref="char:EOLhyphen"/>neſty.</p>
+            <p n="6">
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>6</label> 6. It is Propheſied in reſpect of the times of theGoſpel, <hi>Zech,</hi> 13.3. <hi>That if any ſhal Propheſy falſly to draw away unto Idolatry, his father and his mother that begat him, ſhal ſay unto him, thou ſhalt not live; for thou ſpeakeſt lies in the name of the Lord; and his father and his mother that begat him, ſhal thruſt him through when he propheſieth.</hi> This ſhews that in the times of the Goſ<g ref="char:EOLhyphen"/>pel (of which times this is Propheſied, as appears by <hi>v.</hi> 1.) there ſhal be a reſtraining and puniſhing of falſe Prophets, falſe teachers and ſeducers.</p>
+            <p>
+               <hi>Except.</hi> Some anſwer that all that is here held out unto us, is this, that in the times of the <hi>Goſpel,</hi> falſe teachers that go about to draw from Chriſt, ſhal be moſt odious unto true beleevers.</p>
+            <p>
+               <hi>Reply.</hi> This is not all, but that they ſhal alſo be re<g ref="char:EOLhyphen"/>ſtrained and puniſhed, as thoſe words plainly import.
+<pb n="10" facs="tcp:114449:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:114449:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:114449:13"/>
+               <hi>They ſhal ſay unto him, thou ſhalt not live, and they ſhal thruſt him through.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But it is objected, that the words are not to be taken literally, for that, ſo parents ſhould kil their own chil<g ref="char:EOLhyphen"/>dren, whereas it is unlawful for any private perſons to kil others, and moſt unnatural for parents to kil their children.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer, They are ſaid to do it, becauſe they pro<g ref="char:EOLhyphen"/>cure it to be done, <hi>viz.</hi> by the Magiſtrate, whom they ſhal inform againſt thoſe ſeducers, that ſo they may receive condigne puniſhment. A parallel place to this, and which doth ſerve fully to illuſtrate this, there is, <hi>Deut.</hi> 13.6, 10. <hi>If thy brother, the ſonne of thy mother</hi> &amp;c. <hi>entice thee ſecretly, ſaying, Let us go ſerve o<g ref="char:EOLhyphen"/>ther Gods</hi> &amp;c. <hi>Thou ſhalt not conſent</hi> &amp;c. <hi>neither ſhalt thou conceal him; but thou ſhalt ſurely kil him, thine hand</hi> &amp;c. Mark here, <hi>Thou ſhalt ſurely kil him.</hi> viz. Who<g ref="char:EOLhyphen"/>ſoever thou be'ſt that art inticed unto idolatry. But how is this underſtood? may any one take upon him to kil ſuch as would draw him away from the true God? No, he muſt not do it himſelf, but procure it to be done, by ſuch as have power and authority to do it, as the words before do ſhew; <hi>thou ſhalt not conceal him.</hi> i. <hi>thou ſhalt complain of him to the Magiſtrate, and ſhalt inform him against him.</hi> So the words fol<g ref="char:EOLhyphen"/>lowing ſhew as much, <hi>Thine hand ſhal be firſt upon him to put him to death, and afterwards the hands of all the peo<g ref="char:EOLhyphen"/>ple;</hi> i.e. Thou having witneſſed againſt him, and the Magiſtrate having condemned him, thou ſhalt throw the firſt ſtone at him. For ſo the witneſſes uſed to do, as we ſee <hi>Deut.</hi> 17.7. And mark alſo that which follows, v. 11. <hi>And all Iſrael ſhal hear and fear, and ſhal do no more any ſuch wickedneſs as this amongst you.</hi> This
+<pb n="13" facs="tcp:114449:13"/>
+reaſon ſhews the precept to be moral, and to bind in all ages, Q. <hi>d.</hi> The wickedneſs is exceeding great, and therefore he that is found guilty of it ſhal die for it, that ſo others may fear to do the like.</p>
+            <p>I wil add no more arguments, theſe may ſuffice to prove that Magiſtrates are ordained of God, for the protecting and preſerving of thoſe that do wel, and for the correcting and puniſhing of thoſe that do evil; and that not in civil matters only, but alſo in matters of Religion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Objections. Anſwered. </seg>
+               </label> Some objections are made, which muſt be anſwered.</p>
+            <p>
+               <hi>Object.</hi> Tit. 3.10. <hi>An heretick, after the first and ſe<g ref="char:EOLhyphen"/>cond admonition, reject.</hi> Here, ſay ſome, the Apoſtle requires only that an <hi>heretick</hi> being obſtinate be reject<g ref="char:EOLhyphen"/>ed. i.e. Excommunicated, caſt out of the Church, not re<g ref="char:EOLhyphen"/>ſtrained and puniſhed by the Magiſtrate.</p>
+            <p>
+               <hi>Anſw.</hi> The Apoſtle wrote to <hi>Titus,</hi> and ſignified what he and the officers of the Church ſhould do; as for the civil Magiſtrate, the Apoſtle had no reaſon to men<g ref="char:EOLhyphen"/>tion him, there being as then none but ſuch as were <hi>A<g ref="char:EOLhyphen"/>liens</hi> from <hi>Chriſt</hi> and the <hi>Goſpel.</hi> But doth it follow becauſe the Church muſt reject and excommunicate an <hi>Heretick,</hi> that therefore the Magiſtrate hath no power to reſtrain him from preaching and publiſhing <hi>Hereſie,</hi> and to puniſh him for it? Surely no more, then it follows, that the magiſtrate may not puniſh for inceſt, becauſe the Apoſtle writes to the Church at <hi>Corinth</hi> to caſt out the inceſtuous perſon. 1 <hi>Cor.</hi> 5.</p>
+            <p>
+               <hi>Object.</hi> But they object again and ſay, what puniſh<g ref="char:EOLhyphen"/>ment doth the Goſpel appoint for <hi>Heretical</hi> teachers and maintainers of falſe opinions in matters of Re<g ref="char:EOLhyphen"/>ligion?</p>
+            <p>
+               <hi>Anſw.</hi> 1. I may demand alſo, what puniſhment
+<pb n="14" facs="tcp:114449:14"/>
+doth the Goſpel appoint for theeves, murtherers, in<g ref="char:EOLhyphen"/>ceſtuous perſons, <hi>&amp;c.</hi> I do not find the Goſpel to ex<g ref="char:EOLhyphen"/>preſs any puniſhment to be inflicted by the Magiſtrate more upon theſe then upon the other; expreſly nothing, that I know, is preſcribed againſt either, but by conſe<g ref="char:EOLhyphen"/>quence ſomething is preſcribed againſt both; in that the Goſpel doth approve, confirm and ratifie the Ma<g ref="char:EOLhyphen"/>giſtrate <hi>to be a terrour unto evil works, and a revenger to execute wrath upon thoſe that do evil,</hi> Rom. 13.3, 4. which (as hath been ſaid) holds as wel in things concer<g ref="char:EOLhyphen"/>ning the firſt as the ſecond Table.</p>
+            <p n="2">2. As it is in reſpect of offences againſt the ſecond Table; ſo it is alſo in reſpect of offences againſt the firſt Table; greater or leſſer puniſhment is to be in<g ref="char:EOLhyphen"/>flicted, as the offence is more or leſs heinous; That place, <hi>Zech.</hi> 13.3. being a Prophecy concerning the times of the Goſpel, ſhews, that in ſome caſe, death it ſelf may and ought to be inflicted upon falſe tea<g ref="char:EOLhyphen"/>chers.</p>
+            <p>
+               <hi>Object.</hi> But, ſay ſome, if the Magiſtrate be allowed this power to preſerve and maintain truth in matter of Religion, and to curb and reſtrain error; he may either through ignorance or malice, or both, happen to do quite contrary, to reſtrain truth and maintain error.</p>
+            <p>
+               <hi>Anſw.</hi> It may ſo happen indeed, and hath often ſo happened, otherwiſe there had not been ſo many Mar<g ref="char:EOLhyphen"/>tyrs. But what then? The power in it ſelf is good, and being rightly uſed doth work good, and ſhal it therefore be denyed and diſanulled, becauſe it may be abuſed, and ſo work evil? By this reaſon the Magiſtrate ſhal have no power at all, not ſo much as in civil things; for he may abuſe and pervert alſo this power, he may condemn ſome as being theeves,
+<pb n="15" facs="tcp:114449:14"/>
+murtherers, traytors, <hi>&amp;c.</hi> who are no ſuch men but moſt innocent perſons.</p>
+            <p>
+               <hi>Object.</hi> But ſome object that in the <hi>Parable of the tares,</hi> Math. 13. where the maſter would not let the ſervants pluck up the tares as they would have done, but bid them let them grow till the harveſt, and then they ſhould be plucked up. Hence they gather that Hereticks and ſuch as maintain falſe doctrines, whom they underſtand by the tares, muſt not be puniſhed nor reſtrained, but let alone until the end of the world, which Chriſt himſelf ſhews to be meant by the harveſt.</p>
+            <p>
+               <hi>Anſw.</hi> This Parable makes no more for a toleration of Hereticks then of theeves, murtherers, and all wic<g ref="char:EOLhyphen"/>ked ones whatſoever; for if we wil heed our Saviours own explication; by the tares are meant generally <hi>the children of the wicked one,</hi> v. 38. <hi>All things that offend, and they that work iniquity,</hi> v. 41. <hi>Object.</hi> But are all the workers of iniquity to be let alone until the end of the world? <hi>Anſw.</hi> No, that's not our Saviours mea<g ref="char:EOLhyphen"/>ning, but the ſcope of the Parable is to ſhew, that how<g ref="char:EOLhyphen"/>ever ſome may imagine, yet there wil be a mixture of good and bad here even until the end of the world; and that then, and not before, ſhal be a full and perfect ſe<g ref="char:EOLhyphen"/>paration of the one from the other; The ſame is ſigni<g ref="char:EOLhyphen"/>fied by the <hi>Parable of a draw-net,</hi> Mat. 13.47.— 50. Thus the Doctrine being ſufficiently confirmed, and the Objections made againſt it anſwered, let us come to the <hi>Uſes</hi> of it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>1</label> And 1. It ſerves to convince and recliam, if it may be, thoſe that are of the contrary opinion, and to teach and admoniſh all to beware of that opinion: It is an opinion injurious unto God, injurions to his vice<g ref="char:EOLhyphen"/>gerent,
+<pb n="16" facs="tcp:114449:15"/>
+injurious to his people. 1. Injurious unto God, oppoſing his ordinance. 2. Injurious to Gods vicegerent, the Magiſtrate, deveſting him of that pow<g ref="char:EOLhyphen"/>er wherewith God hath inveſted him. 3. Injurious unto Gods people, depriving them of that benefit which they might and ſhould have by the Magiſtrate, and for want thereof expoſing them to great and manifold inconveniences.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>2</label> 2. To confute the Papiſts, who though they ſeem to give unto the Magiſtrate this power, yet indeed they withhold it from him: For they make him only a Vaſſal to the Pope, and thoſe of that Hierarchy; to execute their Canons and Decrees, to puniſh ſuch as they have pronounced Hereticks, and to cauſe that doctrine which they propound to be embraced, and thoſe rites which they enjoyn, what ever they be, to be obſerved. Whereas, if private perſons muſt <hi>prove all things and hold faſt that which is good,</hi> 1 <hi>Theſ.</hi> 5.21. then much more muſt Magiſtrates do it; Though they muſt not do things of themſelves, but muſt adviſe with godly and able Miniſters, and be inſtructed and di<g ref="char:EOLhyphen"/>rected by them out of Gods Word, yet muſt they not tye themſelves to the dictates of men, but muſt have the book of God, the holy Scripture, continually with them, and exerciſe themſelves diligently therein, and by it try things,<note place="margin">Deut. 17.18, 19, 20.</note> before either they receive them themſelves, or cauſe others to ſubmit unto them.</p>
+            <p n="3">
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>3</label> 3. To ſtir us up to pray continually unto God in the behalf of our Magiſtrates, that they may be enlight<g ref="char:EOLhyphen"/>ned by his Spirit to diſcern of things that differ, that ſo they may be able to uſe their power aright to edifi<g ref="char:EOLhyphen"/>cation and not to deſtruction; for the ſupporting of
+<pb n="17" facs="tcp:114449:15"/>
+the truth, not for the ſuppreſſing of it; and that they may be incited and ſtirred up to do it. Thus the Apoſtle exhorts and requires us <hi>to pray and make ſupplications, as for all, ſo more eſpecially for Kings and thoſe that are in authority, that under them we may lead a peaceable and a quiet life in all godlineſs and honesty,</hi> 1 <hi>Tim.</hi> 2.2. We may ſee, and it is worthy to be obſerved, that accord<g ref="char:EOLhyphen"/>ing as the Kings and Rulers of Gods people were good or bad, ſo Religion either flouriſhed or decayed; under <hi>Aſa, Jehoſaphat, Hezekiah</hi> and <hi>Joſiah</hi> it flouriſh<g ref="char:EOLhyphen"/>ed: Under <hi>Rehoboam, Ahas, Manaſſes, &amp;c.</hi> it de<g ref="char:EOLhyphen"/>cayed.</p>
+            <p n="4">
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>4</label> 4. To ſtir us up to praiſe and glorifie God for ſuch Magiſtrates when any good doth accrew unto the Church by them: As we muſt honour the Magiſtrates themſelves ſo much the more, by how much the more they put forth themſelves and exerciſe their authority for the preſerving and maintaining of Religion, and for the procuring of the welfare and happineſs of the Church, as they did <hi>Jehoiada</hi> the high Prieſt, who had been Tutor to King <hi>Joaſh</hi> in his non-age, and car<g ref="char:EOLhyphen"/>ryed himſelf worthily in that place of dignity and power; at his death they did him the honour to bury him among the Kings, <hi>becauſe he had done good in Iſrael both towards God and towards his houſe,</hi> 2 <hi>Chron.</hi> 24.16. So chiefly our care muſt be to acknowledg the good hand of God upon us in vouchſafing to give us ſuch Magiſtrates, and to make them ſo inſtrumental to our good, and to give him the praiſe and glory of all; <hi>The King granted me</hi> (ſaid <hi>Nehemiah) according to the good hand of my God upon me,</hi> Nehemiah 2.8. So of <hi>Ezra,</hi> it is ſaid that <hi>the King granted him all his re<g ref="char:EOLhyphen"/>queſt (viz.</hi> which he made in the behalf of <hi>Ieruſalem</hi>
+               <pb n="18" facs="tcp:114449:16"/>
+and the ſervice of God) <hi>according to the hand of the Lord his God upon him,</hi> Ezra 7.6. And having rehear<g ref="char:EOLhyphen"/>ſed the decree that the King had made and the com<g ref="char:EOLhyphen"/>miſſion that he had given him concerning the worſhip of God, and the affairs of the Church, he breaketh out into this doxology, <hi>Bleſſed be the Lord God of our fa<g ref="char:EOLhyphen"/>thers, who hath put ſuch a thing as this, in the Kings heart, to beautifie the houſe of the Lord, which is in Jeruſalem: And hath exten<g ref="char:EOLhyphen"/>ded mercy unto me before the King and his Counſellors, and before all the Kings mighty Princes, and I was ſtrengthned as the hand of the Lord my God was upon me,</hi> Ezra 7.27, 28.</p>
+         </div>
+         <div type="sermon">
+            <pb n="19" facs="tcp:114449:16"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ECCLES. 12.7.</hi>
+                  </bibl>
+                  <p>Then ſhal the duſt return to the earth, as it was; and the Spirit ſhal return to God that gave it.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the beginning of this Chapter <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> bids, <hi>Remember thy Creator in the daies of thy youth;</hi> and he ſhews why every one ought to have this care, <hi>viz.</hi> becauſe in old age we can neither be ſo ſerviceable, neither can our ſervice be ſo acceptable; this is ſignified in thoſe words <hi>before the evil daies come, and the years draw nigh, wherein thou ſhalt ſay, I have no pleaſure in them:</hi> the daies of old age are evil daies, <hi>i. e.</hi> full of trouble and ſorrow; in which ſenſe <hi>Iacob</hi> ſaid <hi>that his daies were evil,</hi> Gen. 47.9. Old age is ſubject to diſeaſes and diſtempers; <hi>Senectus ipſa mor<g ref="char:EOLhyphen"/>bus,</hi> it is it ſelf a diſeaſe. And therefore alſo the years of old age are years wherein a man hath no pleaſure, ſee <hi>Pſal.</hi> 90.10. and 2 <hi>Sam.</hi> 19.35. And are we then in old age fit to do God ſervice? Or is it fit to put off the ſerving of God until old age? Shal we think that God wil have pleaſure in that ſervice which we put off till thoſe years come, wherein we our ſelves have no plea<g ref="char:EOLhyphen"/>ſure? <hi>Solomon</hi> having thus generally ſet forth in the firſt <hi>verſe</hi> how unmeet it is and unreaſonable to caſt off the remembrance of God until old age come, he goes on in the next five <hi>verſes</hi> to deſcribe old age and to ſet
+<pb n="20" facs="tcp:114449:17"/>
+forth the troubleſome and uncomfortable condition of it more particularly: the deſcription is very elegant, but allegorical, and therefore obſcure; I may not now ſtand to explain it, but muſt come to the 7. <hi>ver.</hi> which I am to inſiſt on, wherein he ſhews what old age tends to, and what follows upon it, <hi>viz.</hi> death and judgment, <hi>Then ſhal the duſt return &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Then] viz.</hi> when old age hath worn and weakned the body and diſſolved the frame and temperature of it.</p>
+            <p>
+               <hi>Shal the duſt]</hi> i. e. the body which was made of duſt, <hi>Gen.</hi> 2.7.</p>
+            <p>
+               <hi>Return to the earth as it was,]</hi> According to that <hi>Gen.</hi> 3.19. <hi>In the ſweat of thy face ſhalt thou eat bread, till thou return to the ground,</hi> (or earth); <hi>for out of it wast thou taken; for duſt thou art, and unto duſt ſhalt thou re<g ref="char:EOLhyphen"/>turn.</hi>
+            </p>
+            <p>
+               <hi>And the Spirit]</hi> i. e. the ſoul, as the word Spirit is taken 1 <hi>Cor.</hi> 6.20. and ſo in other places.</p>
+            <p>
+               <hi>Shal return unto God]</hi> viz. as the Chaldee Paraphraſt dothwel interpret it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>i.e.</hi> to ſtand (or ap<g ref="char:EOLhyphen"/>pear) in judgment before him, to be judged and ſenten<g ref="char:EOLhyphen"/>ced by him. For it is appointed unto men to dye once, ſo after this the judgment, <hi>Heb.</hi> 9.27.</p>
+            <p>
+               <hi>That gave it</hi>) that created it, and infuſed it into the body, ſee <hi>Gen.</hi> 2 7.</p>
+            <p>The words being ſufficiently explained, I come to the Obſervations to be gathered from them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>1</label> And the firſt is this, That the body is mortal, <hi>Then ſhal the duſt, i. e.</hi> the body, <hi>return to the earth, as it was.</hi> The Apoſtle cals the body, in reſpect of its condition here, <hi>mortal body, Rom.</hi> 6.12. and ſo <hi>Rom.</hi> 8.11. Its called a Tabernacle, 2 <hi>Pet.</hi> 1.13, 14. &amp; 2 <hi>Cor.</hi> 5.1. A Tabernacle hath no foundation as a houſe hath, on<g ref="char:EOLhyphen"/>ly
+<pb n="21" facs="tcp:114449:17"/>
+is made faſt with cords and ſtakes, but the cords are ſoon looſed, and the ſtakes pluckt up, and ſo the Ta<g ref="char:EOLhyphen"/>bernacle diſſolved. Its ſaid <hi>Iohn</hi> 1.14. that the word was made fleſh, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, we read it,<note place="margin">See <hi>Beza.</hi>
+               </note> dwelt a<g ref="char:EOLhyphen"/>mong us, but the word ſignifieth, to abide in a Taber<g ref="char:EOLhyphen"/>nacle, it imports that Chriſt had a mortal body.</p>
+            <p>But how comes it to paſs, that the body is mortal? did God make it ſo at firſt? No, had man continued ſuch as God firſt made him, he had never died. His body indeed being compacted of corruptible matter, was naturally apt to be corrupted, but by a ſupernatu<g ref="char:EOLhyphen"/>ral power it ſhould have been preſerved from corrup<g ref="char:EOLhyphen"/>tion. Auguſtine ſpeaking of man, as he was at firſt created of God, ſaith wel, <hi>mortalis erat conditione cor<g ref="char:EOLhyphen"/>poris animalis, immortalis beneficio creatoris,</hi> i. e. In re<g ref="char:EOLhyphen"/>ſpect of the natural conſtitution of his body, he was mortal, but through the goodneſs of his creator he was immortal. It was ſin that brought mortallity. <hi>What day ſoever thou doſt eate thereof</hi> [viz. <hi>of the forbid<g ref="char:EOLhyphen"/>den fruit</hi>] <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>dying thou ſhalt die,</hi> i. <hi>thou ſhalt certainly die;</hi> ſo God threatned <hi>Adam, Gen.</hi> 2.17. Not that immediatly upon his tranſgreſſion his ſoul ſhould part from his body, but immediately he ſhould become mortal, and ſubject to death, as <hi>Symmachus</hi> did wel interpret it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, i. thou ſhalt be mortal. In this ſenſe are the very ſame words uſed, 1 <hi>King.</hi> 2.37 <hi>It ſhal be</hi> (ſaid <hi>Solomon</hi> to <hi>Shimei) that on the day thou goeſt over, and paſseſt over the brook Kidron, thou ſhalt know for certain, that</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>dying thou ſhalt die,</hi> i.e. <hi>thou ſhalt certainly die.</hi> Shimei died not that very day but then immediately his life was forfeited, and he made himſelf liable to death, Whenſoever <hi>So<g ref="char:EOLhyphen"/>lomon</hi> ſhould pleaſe to inflict it upon him.
+<pb n="22" facs="tcp:114449:18"/>
+And thus it was with <hi>Adam</hi> upon his eating of the for<g ref="char:EOLhyphen"/>bidden fruit; preſently the ſentence of death paſſed on him, <hi>duſt thou art, and to duſt ſhal thou return,</hi> Gen. 3.19.</p>
+            <p>Thus <hi>Adam</hi> by his tranſgreſſion made himſelf mor<g ref="char:EOLhyphen"/>tal. Yea, and not himſelf only, but all his poſterity alſo. For all were included in him, and his ſin was the ſin of all, and ſo in him all became mortal. <hi>In A<g ref="char:EOLhyphen"/>dam all die,</hi> 1 Cor. 15.22. <hi>viz.</hi> becauſe in <hi>Adam</hi> all did ſin. <hi>By one man (namely Adam) ſin entred into the world, and by ſin death, and ſo death went over all</hi> &amp;c. Rom. 5.12.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>2</label> I paſs to a 2. Obſervation, <hi>viz.</hi> this, That the ſoul is immortal; the ſpirit [doth not go to the earth, as the body, but] doth return to God that gave it.</p>
+            <p>True it is, there is a death of the ſoul, <hi>a death in ſin,</hi> Epheſ. 2.1.5. <hi>And a death for ſin,</hi> Revel. 20.6. It is there called the ſecond death, becauſe there is another death for ſin before it, <hi>viz.</hi> The death of the body, which death (as hath been ſhewed) came by ſin, and for ſin; but after this comes a ſecond death for ſin (if ſin be not remitted through Chriſt) <hi>viz.</hi> The con<g ref="char:EOLhyphen"/>demnation of the ſoul, firſt, and afterwards both of ſoul and body. The firſt death is but temporal, but the ſecond death is eternal.</p>
+            <p>But this death of the ſoul, whether in ſin, or for ſin, is but metaphorically and improperly called death. The ſoul dies not ſo as to ceaſe to be that ſubſtance which it was before; in this reſpect it is immortal. The bodie turns to duſt, but the ſoul ſubſiſts, and remains for ever. One in theſe times hath ſet forth a book pur<g ref="char:EOLhyphen"/>poſely to prove the ſoul to be mortal in like manner as the body is mortal, maintaining, that when a man dies, his ſoul dies as wel as the body. A moſt groſs opinion,
+<pb n="23" facs="tcp:114449:18"/>
+and directly contradictory to the Text in hand, and to ma<g ref="char:EOLhyphen"/>ny other places of Scripture, which by no art or ſubtilty can be eluded. He would evade this Text that we have in hand, by ſaying, that it imports no more then what is ſaid, <hi>Pſal.</hi> 104.29. <hi>Thou takeſt away their breath, they die, and return to their duſt.</hi> But theſe places are not ſo parallel, as he ſuppoſeth. <hi>For the taking away of the breath,</hi> which the Pſalmiſt ſpeaketh of, <hi>is a cauſe of death,</hi> and therefore, at leaſt in order of nature before death; for ſo the cauſe is ever before the effect: becauſe God takes away from his creatures their breath, therefore they die; but here the ſpirits going to God is a conſe<g ref="char:EOLhyphen"/>quent of death; Firſt, a man dies, and then, as his body goes to the earth, ſo his ſoul goes to God. This clear<g ref="char:EOLhyphen"/>ly argues a ſubſiſting of the ſoul when a man is dead, and that the ſoul doth not die together with the body. <label type="milestone">
+                  <seg type="milestoneunit">Teſt. </seg>2</label> So elſewhere in the Scripture the Spirit of God is plain, and plentiful in aſſerting the ſouls immortality. This day (ſaid Chriſt to the repenting and beleeving malefactor) ſhalt thou be with me in Paradiſe. How ſhould he be that day with Chriſt in Paradiſe? Not in reſpect of the body; for ſo Chriſt himſelf was not that day in Paradiſe, but in the grave. And in reſpect of the body, the impenitent theif was as much in Para<g ref="char:EOLhyphen"/>diſe, as he to whom Chriſt made this promiſe. There<g ref="char:EOLhyphen"/>fore it was in reſpect of the ſoul that he ſhould be that day in Paradiſe; and conſequently the ſoul dies not with the body, but ſubſiſts ſeparated from the bo<g ref="char:EOLhyphen"/>dy.</p>
+            <p>The anſwer which the adverſary gives to this place, is to this effect (for it is ſomewhat intricate) that therefore Chriſt told the penitent thief, that he ſhould that day be with him in Paradiſe, though it
+<pb n="24" facs="tcp:114449:19"/>
+ſhould not be until the reſurrection (for he grants that the body ſhal riſe again, and then the ſoul ſhal be re-u<g ref="char:EOLhyphen"/>nited to it, but wil have neither ſoul nor body to live until the reſurrection) becauſe there is but, as it were, a moment betwixt death and the reſurrection, for that while a man is dead, be it never ſo long, he perceives no continuance of time, being altogether without ſenſe and feeling. But what if a man be not ſenſible of time, is there therefore none for that? The 7 ſleepers that are ſaid to have ſlept from the time of <hi>Decius,</hi> to the time of <hi>Theodoſius,</hi> about 200 years, by this reaſon may be ſaid to have waked the ſame day that they fel aſleep. Yea grant this mans opinion of the ſouls mor<g ref="char:EOLhyphen"/>tality to be true, and let the words of our Saviour be expounded, as he would have them; and what ſingular thing was promiſed to that penitent malefactor? It might as wel have been ſaid to <hi>Adam,</hi> that that very day that he dyed he ſhould be with Chriſt in Paradiſe (though it ſhould not be of, I know not how many thouſand years after) as it was ſpoken by our Saviour to this Malefactor that was Crucified with him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Teſt. </seg>3</label> Again, 2 Cor. 5.8. <hi>We are confident [ſaith the A<g ref="char:EOLhyphen"/>postle] willing rather to be abſent from the body, and preſent with the Lord.</hi> How (I wonder) are we pre<g ref="char:EOLhyphen"/>ſent with the Lord, when we are abſent from the body, if the ſoul do not remain ſeperated from the body? cer<g ref="char:EOLhyphen"/>tainly if the ſoul die with the body, we are leſs preſent with the Lord after death, which is meant by abſence from the body, then before. Beſides, that very phraſe of being abſent from the body, implyes that ſomething of us, which can be nothing but the ſoul, hath a ſubſi<g ref="char:EOLhyphen"/>ſtance by it ſelf out of the body, and therefore dies not with the body.</p>
+            <p>
+               <pb n="25" facs="tcp:114449:19"/>To this place he anſwers, that the Apoſtle meant nothing elſe but the eſtate after the reſurrection. But how could the Apoſtle mean that? For is there then an abſence from the body, when as the body riſeth again, and the ſoul and it are again united?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Teſt. </seg>4</label> Again, <hi>Phil.</hi> 1.23. the Apoſtle ſaith, <hi>That he de<g ref="char:EOLhyphen"/>ſired to be diſsolved and to be with Chriſt, which was better for him, then to live ſtil here in this world.</hi> And v. 21. <hi>that it was gain for him to die.</hi> But except the ſoul be mortal, how could this be? how could death be gain to him? How could he deſire to be diſſolved that he might be with Chriſt, and ſo be in a far better eſtate then here he could enjoy, if as his body died, ſo his ſoul ſhould die alſo, and ſhould be no more until the re<g ref="char:EOLhyphen"/>ſurrection? Surely then it had been far better for him to live ſtil, yea (if it were poſſible) not to die at all, but to remain until Chriſts 2 coming, as ſome upon a mi<g ref="char:EOLhyphen"/>ſtake of Chriſts words ſuppoſed <hi>John</hi> ſhould, <hi>Ioh.</hi> 21.23</p>
+            <p>I wil add but one place more, <hi>viz.</hi> That 2 <hi>Cor.</hi> 12.2.3. where the Apoſtle ſaith, <hi>that he knew a man in Chriſt,</hi> (meaning without queſtion himſelf) <hi>who was caught up to paradiſe, the third heaven, whether in the body, or out of the body, he could not tell.</hi> Theſe words, which the Apoſtle twice repeateth, <hi>whether in the body, or out of the body, I cannot tell,</hi> to what purpoſe were they, if the ſoul could not be ſeparated from the body, and ſubſiſt in a ſtate of ſeparation? They neceſſarily imply thus much, that the ſoul is a diſtinct ſubſtance from the body, and may ſubſiſt out of the body. And conſequently it is not mortal, it dies not with the body. But ſome objections are made which muſt be anſwered.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label> Man is mortal, and therefore the ſoul being part, yea principal part of man is mortal.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer, it doth not follow, <hi>Totus homo moritur non
+<pb n="26" facs="tcp:114449:20"/>
+totum hominis,</hi> i. the whole man dieth, but not the whole [not every part] of man; it ſufficeth that one part, <hi>viz.</hi> the body dieth. For <hi>quod convenit parti, convenit etiam toti ſecundum illam partem,</hi> i. That which agreeth to a part, agreeth alſo to the whole in reſpect of that part. Its ſaid <hi>Gen.</hi> 2.7. <hi>that God formed man of the duſt of the ground;</hi> viz. <hi>becauſe God formed the body of man of the dust.</hi> As for the ſoul it was not formed thereof, but infuſed, as there its ſaid, <hi>that God brea<g ref="char:EOLhyphen"/>thed into man</hi> i. <hi>mans body] the breath of life.</hi> If mans mortality did prove the mortality of the ſoul, then be<g ref="char:EOLhyphen"/>cauſe Chriſt died, not only his ſoul, but his divine na<g ref="char:EOLhyphen"/>ture ſhould die alſo, which (I think) this Author himſelf wil abhor to ſay or think; for as man conſi<g ref="char:EOLhyphen"/>ſteth of ſoul and body, ſo Chriſt of the divine and hu<g ref="char:EOLhyphen"/>mane nature. And therefore if Chriſt might die (as he did) and yet his divine nature be immortal; then is there no neceſſity at all, why, becauſe man dyeth, the ſoul therefore muſt die alſo.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> Man became mortal becauſe of ſin; but he ſinned principally in his ſoul. Therefore in reſpect of the ſoul he ought principally to die.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The ſoul through ſin becometh liable to ſuch a death as it is capable of <hi>viz.</hi> an excluſion from God and from all happineſs: but it is not capable of ſuch a death, as the body is liable to, <hi>viz.</hi> a deprivation of all ſenſe and feeling, and a corruption of the very ſub<g ref="char:EOLhyphen"/>ſtance of it, for the ſoul is a ſpirit [as in the Text, and in other places it is termed) and therefore of an incor<g ref="char:EOLhyphen"/>ruptible nature.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label>
+               <hi>In death there is no remembrance of God; in the grave who ſhal give him thanks,</hi> Pſal. 6.5.? <hi>The grave cannot praiſe him, death cannot celebrate him,</hi> Iſa. 38.18.</p>
+            <p>
+               <pb n="27" facs="tcp:114449:20"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The meaning is, that the dead cannot ſo praiſe God as the living do, <hi>viz.</hi> to the inſtruction and edifica<g ref="char:EOLhyphen"/>tion of others. <hi>The living, the living, he ſhal praiſe thee, as I do this day; the father to the children ſhal make known thy truth,</hi> ſaith <hi>Hezekiah</hi> there immediately after, <hi>Iſaiah</hi> 38.19. In this reſpect the godly have deſired to live rather then to die, that they may edifie the Church, and to glorify God, which being dead they could not do. <hi>I wil not die, but live</hi> (ſaith <hi>David,</hi> and why? he adds) <hi>and declare the works of the Lord,</hi> Pſal. 118.17. See alſo, Phil. 1.23.24.25.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>4</label> Eccleſ. 9.4.5. <hi>A living dogg is better then a dead Li<g ref="char:EOLhyphen"/>on. For the living know that they ſhal die, but the dead know not any thing.</hi> And <hi>Eccleſ.</hi> 3.19.20.21. <hi>That which befalleth the ſonnes of men, befalleth beasts; even one thing befalleth them; as the one dieth, ſo dieth the o<g ref="char:EOLhyphen"/>ther; yea they have all one breath, ſo that a man hath no preheminence above a beaſt; for all is vanity. All go unto one place, all are of the duſt, all turn to duſt again. Who knoweth the ſpirit of a man that goeth upward, and the ſpirit of a beast that goeth downward to the earth?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> This is ſpoken in the perſon of carnal <hi>Epicures</hi> and <hi>Atheiſts,</hi> who think there is no other life after this, and therefore had rather live, though never ſo baſely, then die, though never ſo honorably. Certain it is, that the ſpirit of God means nothing leſs, then that the worſt alive, are better then the beſt being dead. <hi>For how then are they bleſsed that die in the Lord, even whiles they are dead?</hi> Apoc. 14.13. <hi>How is it gain to the godly to die, and far better for them then to live?</hi> Phil. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.21.23. And that very queſtion, who knoweth the ſpirit of a man that goeth upward, &amp;c. implyeth that in truth, the ſpirit of a man dies not when the body dies, as the
+<pb n="28" facs="tcp:114449:21"/>
+ſpirit of a beaſt doth; although the <hi>Epicure</hi> and <hi>Atheiſt,</hi> that lives like a beaſt, thinks that he ſhal alſo die like a beaſt; that ther's no difference at all betwixt the death of a beaſt, and the death of a man, but that every way as the one, ſo the other dieth alſo, <hi>viz.</hi> as wel in ſoul, as in body. I paſs to the 3<hi rend="sup">d</hi> and laſt obſervation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>3</label> The ſoul immediately after death, is judged of God. In this reſpect its ſaid, when a man dies, to go to God, <hi>viz.</hi> to be judged by him; for otherwiſe it is not true of every ſoul (not of any ſoul of the wicked) that it goes to God, <hi>viz.</hi> ſo as to live with him, and to love the bleſſed fruition of him.</p>
+            <p>Now that the ſoul immediately after its ſeparation from the body, comes to judgment, appears by thoſe places pre-alledged, which ſhew that the ſouls of the godly immediately after death, are in bleſſed happi<g ref="char:EOLhyphen"/>neſs; as 2 <hi>Cor.</hi> 5.8. <hi>Phil.</hi> 1.23. <hi>Apoc.</hi> 14.13. This argues, that judgment doth paſs immediately upon the ſoul, and that it is forthwith adjudged either to its reward, or puniſhment. The ſame alſo may be pro<g ref="char:EOLhyphen"/>ved by that of the <hi>rich man and Lazarus,</hi> Luk. 16. Which ſeemes not to be (as ſome ſuppoſe) a meer pa<g ref="char:EOLhyphen"/>rable, but a parabolical hiſtory, or a hiſtory related ſomewhat after a parabolical manner. For that 1. <hi>Lazarus</hi> is there named, whereas in meer parables, the names of perſons ſpoken of are not mentioned, becauſe the perſons are but feigned. And 2. parables are ever drawn from things outward and obvious unto men; whereas our Saviour there ſpeaks of things done in the other world.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object </seg>1</label> But ſome may object that, 2 <hi>Tim.</hi> 4.8. <hi>Henceforth is laid up for me the crown of righteouſneſs, which the Lord, the righteous judg, ſhal give me at that day,</hi> viz. of
+<pb n="29" facs="tcp:114449:21"/>
+Chriſts coming to judgment in the end of the world. So <hi>Col.</hi> 3.4. <hi>When Chriſt, who is our life, ſhal appear, then ſhal we alſo appear with him in glory.</hi> By theſe, and ſuch like places, it may ſeem that there is no re<g ref="char:EOLhyphen"/>ward received after death until the general judgment. And ſo divers of the ancients have thought that the ſouls are until the laſt judgment in certain receptacles, neither in pain nor pleaſure, but only in expectation of that which is to come.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> But the meaning of thoſe Scriptures, which ſeem to favour that opinion, is only this, that the ful and per<g ref="char:EOLhyphen"/>fect reward is not til the laſt judgment; not but that the reward in ſome meaſure, and in great meaſure too, is obtained before that time, as is evident by thoſe other Scriptures which have been cited. Yea compara<g ref="char:EOLhyphen"/>tively <hi>juſt men departed out of this life, are ſaid to be made perfect;</hi> Heb. 12.23. <hi>viz.</hi> in compariſon of what they were here in this world, though in compariſon of what they ſhal be after the reſurrection, they be ſtil imperfect.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> But again it may be objected, If the ſoul be judged preſently after death, what need is there of a judgment to come in the end of the world?</p>
+            <p>I anſwer, yes; 1. In reſpect of men, becauſe be<g ref="char:EOLhyphen"/>fore only one part of them, <hi>viz.</hi> the ſoul is judged; but the body having been partner with the ſoul, either in righteouſneſs, or in ſin, meet and requiſite it is, that the body alſo be partner with the ſoul, either in the reward, or in puniſhment. <hi>We muſt all appear be<g ref="char:EOLhyphen"/>fore the judgment ſeat of Chriſt, that every one may receive the things done in the body, according to that he hath done, whether it be good or evil.</hi> 2 Cor. 5.10. The things were done in the body, and therefore, as wel the body as the ſoul muſt be rewarded, or puniſhed. Now this
+<pb n="30" facs="tcp:114449:22"/>
+in reſpect of the body is not til the laſt judgment. 2. In reſpect of God alſo, beſides the particular judg<g ref="char:EOLhyphen"/>ment, which is immediately after death, it is behove<g ref="char:EOLhyphen"/>ful, that there be a general judgment, as there ſhal be in the end of the world; <hi>viz.</hi> that ſo Gods juſtice may be made manifeſt. Hereby reaſon of the proſperity of the wicked, and the adverſity of the godly, the ju<g ref="char:EOLhyphen"/>ſtice of God ſometime is queſtioned, yea denied. <hi>Mal.</hi> 2.17. &amp; 3.14, 15. Therefore God wil have his ju<g ref="char:EOLhyphen"/>ſtice vindicated and cleared; <hi>All ſhal diſcern between the righteous and the wicked</hi> &amp;c. Mal. 3.18. But the difference betwixt them immediately after death, is not diſcerned, it appears not; the judgment that then paſſeth upon the ſouls of men, is ſecret, and unknown to us. Therefore meet it is that there be another judg<g ref="char:EOLhyphen"/>ment, a general judgment, wherein all ſhal be judged, and that in the ſight of all, that ſo Gods juſtice may appear unto all. Therefore the Apoſtle ſpeaking of the laſt judgment, calls that day, a day of the revela<g ref="char:EOLhyphen"/>tion of the righteous judgment of God, <hi>i.</hi> a day where<g ref="char:EOLhyphen"/>in the righteous judgment of God ſhal be revealed and made manifeſt to all the world. See <hi>Mal.</hi> 3. and the laſt <hi>ver.</hi> with <hi>Mal.</hi> 4. and the two firſt <hi>verſes.</hi>
+            </p>
+            <p>To make ſome Uſe and application of all.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>1</label> Firſt, let us learn, and be admoniſhed to prize ſpi<g ref="char:EOLhyphen"/>ritual things above corporal, and to labour for the wel<g ref="char:EOLhyphen"/>fare of the ſoul more then of the body. True it is, things needful for the body are to be looked after, the welfare of the body is not to be neglected. S<hi rend="sup">t.</hi> 
+               <hi>John</hi> deſired earneſtly that <hi>Gaius his body might proſper and be in health,</hi> 3 Joh. 2. And S. <hi>Paul</hi> exhorted <hi>Timothy</hi> to have a care of his bodily health, 1 <hi>Tim.</hi> 5.23. But the things that concern the ſoul are chiefly to be thought of; the welfare of the ſoul is principally to be regarded,
+<pb n="31" facs="tcp:114449:22"/>
+               <hi>Firſt ſeek the Kingdom of God and his righteouſneſs</hi> Mat. 6.33. Good reaſon, ſeeing the body is mortal, but the ſoul immortal. The body is but [as the <hi>Hebrews</hi> call it] <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>i. e.</hi> the clothing or covering of man; the ſoul is the man indeed: Compare <hi>Mat.</hi> 10. 25 with <hi>Luke</hi> 9.25. <hi>Expende animam, impende in ani<g ref="char:EOLhyphen"/>mam.</hi> Conſider the worth of the ſoul, and ſo take care for the ſoul. This was the folly of that rich man, <hi>Luke</hi> 12. when his barns were full, he ſaid <hi>Soul take thine eaſe, eat, drink and be merry, for thou haſt much goods laid up for many years.</hi> Alas! thoſe goods were for the body; not for the ſoul; that might ſtarve in the midſt of ſuch plenty. This is the miſery of the wicked, what ever their outward eſtates be, yet their inward man, their heart, is little worth; as <hi>Solomon</hi> tels us, <hi>Pro.</hi> 10.20. On the other ſide this was <hi>Pauls</hi> comfort, <hi>that though his outward man</hi> (the body) <hi>periſhed, yet his in<g ref="char:EOLhyphen"/>ward man</hi> (the ſoul) <hi>was renewed day by day,</hi> 2 Cor. 4.16 This is the happineſs of the godly; that though other<g ref="char:EOLhyphen"/>wiſe they be in adverſity yet their ſoul proſpereth, 3 <hi>Joh.</hi> 2. Though outwardly they be poor, yet inward<g ref="char:EOLhyphen"/>ly they are rich, <hi>Apoc.</hi> 2.9. Thus <hi>Lazarus</hi> was rich, though otherwiſe a poor begger, and therefore was infinitely more happy then he that had abundance of the unrighteous Mammon, but wanted the true riches. Labor we therefore for theſe riches, ſpiritual riches, let out hearts be ſet on theſe which are eternal, not on the other that are but temporal. <hi>Labor not for the meat that periſheth, but for that meat that endureth to ever<g ref="char:EOLhyphen"/>laſting life,</hi> John 6.27.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>2</label> Secondly, ſeeing there is a judgment to come after death, and even a particular judgment immediately af<g ref="char:EOLhyphen"/>ter the ſoul is departed from the body; let us think of it and prepare for it; the judgment of man may be
+<pb n="32" facs="tcp:114449:23"/>
+evaded, but there's no evading of Gods judgment; <hi>Whoremongers and adulterers God wil judg,</hi> Heb. 13.4. Though man do not judg them yet God will: <hi>He will render to every man according to his deeds,</hi> Rom. 2.6. God doth ſometimes exact judgments here, but theſe are but <hi>preludia futuri judicii,</hi> tokens and fore-runners of the judgment to come; the judgments executed here are temporal, but that hereafter is <hi>eternal,</hi> Heb. 6.2. The proſperity or adverſity of this life is but for a mo<g ref="char:EOLhyphen"/>ment, but after death comes either that welfare or that wo, which endures for ever. What can work upon us, what can be of force to make us circumſpect and watchful, if not the conſideration of the judgment to come? <hi>Auguſtine</hi> ſaith it was <hi>metus mortis &amp; futuri judicii,</hi> the fear of death and of judgment after death that brought him out of the gulf of ſin wherein he was almoſt ſwallowed up and drowned. S. <hi>Paul</hi> alſo teſti<g ref="char:EOLhyphen"/>fieth of himſelf, that knowing <hi>that there ſhal be a reſur<g ref="char:EOLhyphen"/>rection both of the juſt and the unjuſt; he did exerciſe him<g ref="char:EOLhyphen"/>ſelf to have always a conſcience voyd of offence,</hi> &amp;c. <hi>Act.</hi> 24.15, 16. See 2 <hi>Cor.</hi> 5.9, 10, 11. <hi>Eccleſ.</hi> 12.13, 14. But if we would be able to ſtand in iudgment we muſt not rely on our own righteouſneſs, but renouncing it as inſufficient to juſtifie us before God, <hi>we must fly unto Christ and lay hold on him and his righteouſneſs,</hi> ſee <hi>Pſa.</hi> 143.2. <hi>Phil.</hi> 3.9 Let us be ſure that we be in Chriſt, and then we need neither fear death nor judgment after death; For <hi>there's no condemnation to them that are in Chriſt Ieſus,</hi> Rom. 8.1 But let us know and conſider, that as there it follows, <hi>they only are in Chriſt Ieſus, who walk not after the fleſh, but after the Spirit. He that ſaith that he abideth in him muſt himſelf walk even as he walked,</hi> 1 Joh. 2.6. <hi>As many as walk according to this rule, peace ſhal be upon them, and mercy, and upon the Iſrael of God,</hi> Gal. 6.16.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
